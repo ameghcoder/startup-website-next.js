@@ -49,7 +49,7 @@ const Navbar = () => {
                                 <SheetDescription className="flex flex-col gap-4">
                                     <Link href="/" className="text-left hover:underline text-sm transition-colors hover:text-foreground/80 text-foreground/60">Home</Link>
                                     <Link href="/about" className="text-left hover:underline text-sm transition-colors hover:text-foreground/80 text-foreground/60">About</Link>
-                                    <Link href="/blog" className="text-left hover:underline text-sm transition-colors hover:text-foreground/80 text-foreground/60">Blog</Link>
+                                    <Link href="/blog" className="text-left hover:underline text-sm transition-colors hover:text-foreground/80 text-foreground/60">Post</Link>
                                     <Link href="/contact" className="text-left hover:underline text-sm transition-colors hover:text-foreground/80 text-foreground/60">Contact</Link>
                                     <Button className="text-xs" variant="outline">Login</Button>
                                     <Button className="text-xs" variant="secondary">Secondary</Button>
